@@ -1,0 +1,7 @@
+/.elixir_ls/
+/deps/
+/docs/
+/priv/
+/cover/
+/.git/
+/site/
